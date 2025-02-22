@@ -35,7 +35,7 @@
 5. Когда HTML-файл, который вы извлекаете, последний раз модифицировался на сервере?
    - Last-Modified: Sat, 22 Feb 2025 06:59:01 GMT
 6. Сколько байтов контента возвращается вашему браузеру?
-   - 540
+   - 128
 ![image](https://github.com/user-attachments/assets/36b702d4-e917-428f-92f2-5a246fe3373c)
 ![image](https://github.com/user-attachments/assets/a85b7e02-4bbd-4e38-8969-d7e3446d17d4)
 
